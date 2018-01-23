@@ -1,0 +1,17 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "collectionId",
+            "collectionName",
+            "itemId"
+        ],
+        "def_module": "Data",
+        "def_name": "ItemUpdated",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "collectionId": "eaedc79f0bfcbde29497c5b1dc76"
+    },
+    "name": "Update_bin",
+    "service_name": "UpdateMachineInventory"
+}
